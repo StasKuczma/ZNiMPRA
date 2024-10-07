@@ -1,1 +1,2 @@
 commit 1 from user A
+add another change
