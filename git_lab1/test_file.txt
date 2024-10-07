@@ -1,2 +1,6 @@
 commit 1 from user A
+<<<<<<< HEAD
 add another change
+=======
+third change
+>>>>>>> second_branch
